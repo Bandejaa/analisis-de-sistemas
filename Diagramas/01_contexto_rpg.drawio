@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="f0No9PfrKK9XORQLGf0X">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-37" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="DdqNsO0nf8hKw0JsSCOL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-54" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F8 correo de confirmación&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry relative="1" x="-0.0667" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-39" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.731;exitY=0.957;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.803;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="DdqNsO0nf8hKw0JsSCOL-4">
+          <mxGeometry relative="1" x="0.4079" as="geometry">
+            <mxPoint x="442.4" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-40" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F9 copia de seguridad de partidas&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry relative="1" x="-0.6281" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="0 RPG Manager" vertex="1">
+          <mxGeometry height="90" width="120" x="340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jugador" vertex="1">
+          <mxGeometry height="60" width="120" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;Servicio de Correo&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;Servicio de Respaldo en la Nube&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-33" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="DdqNsO0nf8hKw0JsSCOL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-34" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="F6 datos de la misión" vertex="1">
+          <mxGeometry relative="1" x="-0.1067" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;Game Master&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-35" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="DdqNsO0nf8hKw0JsSCOL-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="550" as="sourcePoint" />
+            <mxPoint x="500" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-36" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F7 reporte de actividad de jugadores&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry relative="1" x="-0.0152" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-42" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="DdqNsO0nf8hKw0JsSCOL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-49" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F1 datos de registro,&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F2 datos del personaje,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F3 acción de combate,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;F10 credenciales de acceso&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3415" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-45" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="DdqNsO0nf8hKw0JsSCOL-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="570" />
+              <mxPoint x="380" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-56" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F11 datos de partida guardada&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;   " vertex="1">
+          <mxGeometry relative="1" x="-0.2133" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-50" edge="1" parent="1" source="DdqNsO0nf8hKw0JsSCOL-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.467;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="DdqNsO0nf8hKw0JsSCOL-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="357.57" y="540" />
+              <mxPoint x="56.04" y="540" />
+            </Array>
+            <mxPoint x="280" y="560" as="sourcePoint" />
+            <mxPoint x="330" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdqNsO0nf8hKw0JsSCOL-51" connectable="0" parent="DdqNsO0nf8hKw0JsSCOL-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F4 resultado del combate,&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;span class=&quot;&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;code style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;F5 ranking de la Arena&lt;/code&gt;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; margin-left: 0px !important; margin-right: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;   &lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2051" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
