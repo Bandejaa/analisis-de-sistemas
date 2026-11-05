@@ -269,5 +269,3 @@ Probablemente en una clase **ArenaDeCombate** (o Combate), porque el cálculo de
 PlantUML conviene cuando el diagrama **cambia seguido y se versiona en Git**, porque al ser texto plano los cambios se revisan línea a línea en un diff y se integra fácil en documentación automática. draw.io conviene cuando se necesita **control visual total** (posición, color, detalle) para presentar o explicar a una audiencia no técnica, o cuando el diagrama es muy elaborado visualmente y no cambiará con tanta frecuencia.
 
 ---
-
-**URL de mi commit:** _(pegar aquí la URL del commit después de subir los 4 `.drawio` y los 4 `.svg` a `diagramas-drawio/` en [analisis-de-sistemas](https://github.com/Bandejaa/analisis-de-sistemas))_
